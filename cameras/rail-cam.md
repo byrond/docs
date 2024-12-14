@@ -18,10 +18,10 @@ When programming the camera, we can control:
 
 ## Steps
 
-* If the camera is in Live Mode, press left on the D-Pad to get to the menu.
+* If the camera is in Live Motion mode, press left on the D-Pad to get to the menu.
 * Select "Programmed Shots" by pressing down on the D-Pad, then press "X".
 * Use the D-Pad to select Start Point, then press "X".
-* Use the controller as you would in Live Mode to set the camera slide position, as well as the tilt/pan/zoom.
+* Use the controller as you would in Live Motion mode to set the camera slide position, as well as the tilt/pan/zoom.
 * Press "X" to lock in the Start Point.
 * Select End Point and press "X".
 * Position the camera at the desired End Point in the same way you set the Start Point. (A good setup is to have the start point on one end, zoomed out and centered. Then, the end point can be on the opposite end, zoomed out and centered. It's a good idea to keep the subject centered at both points, so it doesn't seem to "drift" during its movement. Also, be sure to keep a little distance from the end of the rails when setting each point.)
@@ -35,7 +35,7 @@ When programming the camera, we can control:
 * Go to the next page of settings and press "X" to tell the camera to move to the start point.
 * Finally, press "X" to run the program.
 * When you're ready to stop the program, press "X". You will then have the option to repeat the program, reverse it, or reset.
-* Reset will take you back to the programming options. You can change and run a new program, or press left on the D-Pad to get back to the main menu and go back to Live Mode.
+* Reset will take you back to the programming options. You can change and run a new program, or press left on the D-Pad to get back to the main menu and go back to Live Motion mode.
 
 ## More Information
 
