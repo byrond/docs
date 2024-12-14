@@ -14,6 +14,8 @@ When programming the camera, we can control:
 * How long the camera waits at each point (dwell)
 * How quickly the camera movement gets up to speed (ramp)
 
+{% include youtube.html id="cP7x-zwssl8" %}
+
 ## Steps
 
 ## More Information
