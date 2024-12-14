@@ -13,3 +13,12 @@ When programming the camera, we can control:
 * Duration of the shot (longer is slower)
 * How long the camera waits at each point (dwell)
 * How quickly the camera movement gets up to speed (ramp)
+
+## Steps
+
+## More Information
+
+* Product training videos
+    * [eMotimo Spectrum ST4-101 Programmed Video](https://support.emotimo.com/hc/en-us/articles/115002967126-eMotimo-Spectrum-ST4-101-Programmed-Video)
+    * [eMotimo Spectrum ST4-202 GoTo Presets](https://support.emotimo.com/hc/en-us/articles/115002967046-eMotimo-Spectrum-ST4-202-GoTo-Presets)
+    * [All eMotimo tutorials and videos](https://support.emotimo.com/hc/en-us/sections/201734856-Tutorials-and-Videos)
