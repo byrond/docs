@@ -39,7 +39,8 @@ When programming the camera, we can control:
 
 ## More Information
 
-* Product training videos
-    * [eMotimo Spectrum ST4-101 Programmed Video](https://support.emotimo.com/hc/en-us/articles/115002967126-eMotimo-Spectrum-ST4-101-Programmed-Video)
-    * [eMotimo Spectrum ST4-202 GoTo Presets](https://support.emotimo.com/hc/en-us/articles/115002967046-eMotimo-Spectrum-ST4-202-GoTo-Presets)
-    * [All eMotimo tutorials and videos](https://support.emotimo.com/hc/en-us/sections/201734856-Tutorials-and-Videos)
+### Product training videos
+* [eMotimo Spectrum ST4-101 Programmed Video](https://support.emotimo.com/hc/en-us/articles/115002967126-eMotimo-Spectrum-ST4-101-Programmed-Video)
+* [eMotimo Spectrum ST4-202 GoTo Presets](https://support.emotimo.com/hc/en-us/articles/115002967046-eMotimo-Spectrum-ST4-202-GoTo-Presets)
+* [Controller Documentation](https://support.emotimo.com/hc/en-us/articles/115002966826-eMotimo-ST4-106-Wireless-Gaming-Controller)
+* [All eMotimo tutorials and videos](https://support.emotimo.com/hc/en-us/sections/201734856-Tutorials-and-Videos)
