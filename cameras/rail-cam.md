@@ -33,6 +33,9 @@ When programming the camera, we can control:
 * Go to the next screen of settings, and set the "Ramp" time. A setting of about 3 seconds will allow the camera to smoothly start and stop at each point and eliminate jerking and bouncing.
 * Set the "Shot Style" to "Ping-Pong". This tells the camera to go back and forth between both points continuously.
 * Go to the next page of settings and press "X" to tell the camera to move to the start point.
+* Finally, press "X" to run the program.
+* When you're ready to stop the program, press "X". You will then have the option to repeat the program, reverse it, or reset.
+* Reset will take you back to the programming options. You can change and run a new program, or press left on the D-Pad to get back to the main menu and go back to Live Mode.
 
 ## More Information
 
